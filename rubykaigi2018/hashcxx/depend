@@ -1,0 +1,1 @@
+hashcxx.o: hashcxx.c extconf.h impl.h

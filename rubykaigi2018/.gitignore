@@ -1,0 +1,4 @@
+*.o
+*.log
+*.so
+extconf.h
